@@ -1,4 +1,4 @@
-# AbstractClasses
+# Abstraction
 A Java project on abstract classes and methods
 
 ## What to know
