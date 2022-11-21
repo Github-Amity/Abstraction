@@ -15,7 +15,7 @@ Write a program with one abstract class and two normal classes that extend from 
 - ### Getting the code:  
   - **If you're using an online compiler:** Copy the code from the project file [Country.java](https://github.com/Github-Amity/JavaBasics1/blob/main/BMICalculator.java) and paste it in an online java compiler. Change the class name and its references to "Main" to match the file name of the online compiler (or you can create a new file in the online compiler and name it the same as the file name given here).  Watch [this](https://youtu.be/xgyo7UsfKZo) tutorial for full comprehension.
 
-  - **If you're using a code editor IDE:** Download the code (ZIP file). Watch [this](https://screenrec.com/share/oM6FZ9VsIW) to learn how to do that.  
+  - **If you're using a code editor IDE:** Download the code (ZIP file). Watch [this](https://www.youtube.com/watch?v=vC_O2OgU178) to learn how to do that.  
 
   - **If you have git installed:** [Clone the repository](https://screenrec.com/share/mYGUsDTH9F).
 
