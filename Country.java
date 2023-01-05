@@ -80,9 +80,3 @@ public abstract class Country {
 
 
 // ⬆️--------------------------------END HERE------------------------------⬆️
-class SaudiArabia extends Country {
-    String capital = "Riyadh";
-    void sayHello() {
-        System.out.println("Marhaba!");
-    }
-}
